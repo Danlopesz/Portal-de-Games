@@ -1,0 +1,31 @@
+.card {
+    width: 300px;
+}
+
+img {
+    height: 50%;
+}
+
+
+
+#root {
+    gap: 30px;
+    max-width: 100%;
+    justify-content: center;
+    background-color: black;
+    margin: auto;
+}
+
+h5 {
+    height: 30%;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+div {
+    background-color: rgb(105, 104, 104);
+}
+

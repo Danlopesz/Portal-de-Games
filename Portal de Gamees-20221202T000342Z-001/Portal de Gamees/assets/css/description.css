@@ -1,0 +1,18 @@
+.card {
+    width: 50%;
+}
+
+#root {
+    gap: 30px;
+    max-width: 100%;
+    margin: auto;
+    justify-content: center;
+}
+
+h5 {
+    height: 30%;
+}
+
+ul {
+    list-style: none;
+}
